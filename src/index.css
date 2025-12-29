@@ -114,6 +114,51 @@
     background-color: var(--color-brand-red);
   }
 
+  /* Border Color Utility Classes */
+  .border-color-brown-600 {
+    border-color: var(--color-brown-600);
+  }
+
+  .border-color-brown-500 {
+    border-color: var(--color-brown-500);
+  }
+
+  .border-color-brown-400 {
+    border-color: var(--color-brown-400);
+  }
+
+  .border-color-brown-300 {
+    border-color: var(--color-brown-300);
+  }
+
+  .border-color-brown-200 {
+    border-color: var(--color-brown-200);
+  }
+
+  .border-color-brown-100 {
+    border-color: var(--color-brown-100);
+  }
+
+  .border-color-white {
+    border-color: var(--color-white);
+  }
+
+  .border-color-brand-orange {
+    border-color: var(--color-brand-orange);
+  }
+
+  .border-color-brand-green {
+    border-color: var(--color-brand-green);
+  }
+
+  .border-color-brand-green-soft {
+    border-color: var(--color-brand-green-soft);
+  }
+
+  .border-color-brand-red {
+    border-color: var(--color-brand-red);
+  }
+
   /* Text Color Utility Classes */
   .text-color-brown-600 {
     color: var(--color-brown-600);
